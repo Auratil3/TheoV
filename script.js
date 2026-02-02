@@ -33,7 +33,7 @@ function moveButton() {
 
 // Yes button handler
 yesBtn.addEventListener('click', function() {
-    responseDiv.innerHTML = '🎉 No more Galatines day for you! 💜💕 You\'re stuck with me forever! 🥂';
+    responseDiv.innerHTML = '🎉 thank you Mrs Abrams! 💜💕 You\'re stuck with me forever! 🥂';
     responseDiv.style.fontSize = '24px';
     responseDiv.style.fontWeight = 'bold';
     
